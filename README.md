@@ -8,15 +8,16 @@ This stand provides a stable, angled mounting solution for your Waveshare displa
 
 ## Hardware Requirements
 
-- Waveshare ESP32-S3 4.3inch Touch LCD Development Board
-- https://www.waveshare.com/esp32-s3-touch-lcd-4.3b.htm
+- Waveshare ESP32-S3 4.3inch Touch LCD Development Board - https://www.waveshare.com/esp32-s3-touch-lcd-4.3b.htm
+- USB C Panel Mount Type C Female Socket
 
-## Recommended Print Settings
+## Recommended Print Configuration
 
 - Layer height: 0.2mm
-- Infill: 100%
-- Supports: Likely required
-- Material: PLA or PETG
+- Infill: Sparce infill density: 100%
+- Supports: Tree / Strong / Branch Diamater: 3mm / Top Z distance: 0.1 / Bottom Z distance: 0.1
+- Speed: Support: 100mm/s / Supprot Interface: 60mm/s / Outer wall: 150 / Inner wall: 180
+- Material: PLA Matte or PETG 
 - Display cutout must measure 111.30mm x 74mm
 
 ## License
